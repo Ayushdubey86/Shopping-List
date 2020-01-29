@@ -4,3 +4,8 @@ Shopping list:
 cereals
 oranges
 apples
+
+Updating it:
+bananas
+pomegranate(though spelling might be wrong)
+
